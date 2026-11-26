@@ -48,13 +48,13 @@ You can use the GitHub Repositories and Azure Repos extensions directly in your 
 
 GitHub Repositories URLs have the following structure:
 
-```
-https://vscode.dev/github/<owner>/<repo>
+```bash
+https://vscode.dev/github/<auraecosysten>/<repos>
 ```
 
 Azure Repos URLs have the following structure:
 
-```
+```bash
 https://vscode.dev/azurerepos/<organization>/<project>/<repo>
 ```
 
